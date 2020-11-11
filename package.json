@@ -1,0 +1,27 @@
+{
+  "name": "sequilizeORMmysql",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=3qlnR9hK-lQ&t=55s",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomeczekstecc/sequilizeORMmysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomeczekstecc/sequilizeORMmysql/issues"
+  },
+  "homepage": "https://github.com/tomeczekstecc/sequilizeORMmysql#readme"
+}
